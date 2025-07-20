@@ -1,0 +1,12 @@
+{
+  "name": "Likenet",
+  "symbol": "LIKE",
+  "description": "$LIKE is the official token of the crypto social network Likenet",
+  "image": "https://raw.githubusercontent.com/Developer-like/like/refs/heads/main/like.png",
+  "decimals": 6,
+  "extensions": {
+    "website":   "https://likenet.io",
+    "twitter":   "https://x.com/likenet_io",
+    "telegram":  "https://t.me/likenet_io"
+  }
+}
